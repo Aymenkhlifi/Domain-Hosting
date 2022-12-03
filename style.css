@@ -1,0 +1,18 @@
+#basic{
+    background-color: black;
+}
+#pro{
+    background-color:cyan;
+}
+#premium{
+    background-color: black;
+}
+h2{
+    background-color: lightslategray;
+}
+button{
+    background-color: firebrick;
+    margin-top: 10px;
+    padding:5px;
+    border:none;
+}
